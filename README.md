@@ -1,5 +1,11 @@
 # CRUD Python Project
 
+## Tecnologias Utilizadas
+
+- **Django**: Framework web para desenvolvimento em Python.
+- **Python**: Linguagem de programação utilizada no projeto.
+- **DB Browser for SQLite**: Ferramenta para gerenciar bancos de dados SQLite.
+
 ## Configuração e Execução
 
 Siga os passos abaixo para configurar o ambiente virtual e executar o servidor localmente:
