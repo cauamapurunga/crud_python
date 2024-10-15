@@ -1,4 +1,5 @@
 # CRUD Python Project
+![image](https://github.com/user-attachments/assets/c7597583-a3c8-494c-a789-359308d03012)
 
 ## Tecnologias Utilizadas
 
